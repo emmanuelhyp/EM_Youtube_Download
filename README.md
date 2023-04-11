@@ -1,7 +1,7 @@
 # EM_Youtube_Download
 Youtube Downloader ( Video and playlist ) creer avec python 
 
-<img src="GIF-3.gif" width=200><br>
+<img src="GIF-3.gif" width=600><br>
 
 Required
 - [x] User can paste of any file you want to download and download it
